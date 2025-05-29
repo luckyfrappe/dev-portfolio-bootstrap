@@ -48,6 +48,15 @@ h1, h2 {
     background-color: #1f7798; /* mid-blue */
 }
 
+#hero .btn-primary  {
+    background-color: #1f7798; /* mid-blue */
+    border-color: #1f7798; /* mid-blue */
+}
+
+#hero .btn-primary:hover {
+    background-color: #1d6d8a;
+} 
+
 #portfolio .card-text {
     min-height: 120px;
 }
@@ -56,6 +65,28 @@ h1, h2 {
 #contact {
     background: white;
 }
+
+#contact .btn-primary  {
+    background-color: #1f7798; /* mid-blue */
+    border-color: #1f7798; /* mid-blue */
+}
+
+#contact .btn-primary:hover {
+    background-color: #1d6d8a;
+} 
+
+#contact .form-label {
+    color: #1f7798; /* mid-blue */
+}
+
+#exampleModal .btn-primary {
+    background-color: #1f7798; /* mid-blue */
+    border-color: #1f7798; /* mid-blue */
+}
+
+#exampleModal .btn-primary:hover {
+    background-color: #1d6d8a;
+} 
 
 /* Media queries */
 
